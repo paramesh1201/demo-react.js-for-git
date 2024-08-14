@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/demo-react.js-for-git/static/css/main.557e7c1b.css",
+    "main.js": "/demo-react.js-for-git/static/js/main.6dc4984a.js",
+    "static/media/shopping-bag-line-icon-on-black-background-vector-26849303.jpg": "/demo-react.js-for-git/static/media/shopping-bag-line-icon-on-black-background-vector-26849303.bd9c474755157359111a.jpg",
+    "index.html": "/demo-react.js-for-git/index.html",
+    "main.557e7c1b.css.map": "/demo-react.js-for-git/static/css/main.557e7c1b.css.map",
+    "main.6dc4984a.js.map": "/demo-react.js-for-git/static/js/main.6dc4984a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.557e7c1b.css",
+    "static/js/main.6dc4984a.js"
+  ]
+}
